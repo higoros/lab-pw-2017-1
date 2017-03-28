@@ -6,7 +6,7 @@ Laboratório da turma de Programação para Web.
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/higoros/lab-pw-2017-1`
 
 ### Para rodar com o Tomcat.
 
